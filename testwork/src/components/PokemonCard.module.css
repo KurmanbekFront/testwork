@@ -1,0 +1,22 @@
+.pokemonCard {
+    width: 340px;
+    border: 1px white solid;
+    border-radius: 8px;
+    padding: 15px 12px;
+    .pokeInfo {
+        margin: 0 auto;
+        display: flex;
+        align-items: center;
+        gap: 40px;
+        background-color: rgb(0, 187, 255);
+        border-radius: 10px;
+        padding: 10px 10px;
+        img {
+            margin-bottom: 22px;
+            width: 120px;
+            height: 120px;
+        }
+
+       
+    }
+}
